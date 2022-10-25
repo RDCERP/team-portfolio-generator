@@ -12,7 +12,7 @@
   * [Credits](#credits) 
 
   ## Description
-  This application will allow you to create a dynamic html through command line to build a team inquirer and jest.
+  This application will allow you to create a dynamic html through command line to build a team.
   ## Installation
   You must copy the repository from github and from the command line do a npm install to get the node modules etc.
   ## Usage
