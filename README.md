@@ -25,10 +25,10 @@
   ## Questions
   For more information you can reach out to me at rdcerp@gmail.com 
   or you can find me on GitHub at https://github.com/rdcerp
-
   
-  undefined
+  Watch [this demo](https://watch.screencastify.com/v/lnYqlib7zZZLwlakVaCa) to see the Team Portfolio Generator in action.
+
  
   ## Credits
-  undefined
+
 
